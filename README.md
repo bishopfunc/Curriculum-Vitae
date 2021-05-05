@@ -18,7 +18,9 @@
 
 - プログラミング言語
   - python
+    - numpy/pandas/matplotlib
   - javascript
+    - html/css 
   - C
   
 - 日本語

@@ -37,6 +37,8 @@
 
 - Kaggle(no medal)
 - Atcoder(black)
+- Bubble(Nocode)
+  - [copy of Uber](https://sen-taxi.bubbleapps.io/)
 
 ## 強み
 

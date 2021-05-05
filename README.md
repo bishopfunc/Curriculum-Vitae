@@ -33,6 +33,11 @@
 - Django
   - ブログ(制作中)
   
+### 資格
+
+- ITパスポート(2020年取得)
+  
+  
 ### その他
 
 - Kaggle(no medal)
@@ -40,7 +45,8 @@
 - Bubble(Nocode)
   - [copy of Uber](https://sen-taxi.bubbleapps.io/)
 
-## 強み
+<!--## 強み-->
+  
 
 ## やったことはないが興味があるもの
 
@@ -59,9 +65,9 @@
 - Bio-inspired Algorithms
 - Neural Science
 
-## 登壇歴
+<!--## 登壇歴-->
 
-## 受賞歴
+<!--## 受賞歴-->
 
 ## 執筆歴
 

@@ -93,5 +93,5 @@
 
 - 職務内容の詳細を箇条書きでかく
 
-<hr/>
+---
 [参考サイト：職務経歴書をGitHubで管理しよう](https://qiita.com/okohs/items/abcad0b4aefa585bc50b)

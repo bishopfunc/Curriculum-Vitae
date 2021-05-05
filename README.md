@@ -64,7 +64,7 @@
 ### 論文 
  - [『粘菌を活用した新たな経路探索アルゴリズムに関する研究 ～ダイクストラ法・粘菌アルゴリズム・強化学習の比較検証～](https://github.com/bishopfunc/highschool_paper)
     - 首都圏オープン2021（TSEF2021） 優等賞
-    - [ジュニア農芸化学会2021 参加賞](https://www.jsbba.or.jp/2021/program_junior.html) P13-B
+    - [ジュニア農芸化学会2021] (https://www.jsbba.or.jp/2021/program_junior.html) 参加賞 P13-B
 
 
 ### 商業
@@ -93,5 +93,5 @@
 
 - 職務内容の詳細を箇条書きでかく
 
-<hr/>
-[参考サイト：職務経歴書をGitHubで管理しよう](https://qiita.com/okohs/items/abcad0b4aefa585bc50b)
+---
+参考サイト：[職務経歴書をGitHubで管理しよう](https://qiita.com/okohs/items/abcad0b4aefa585bc50b)

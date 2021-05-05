@@ -33,18 +33,26 @@
   
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- Kaggle(no medal)
+- Atcoder(black)
 
 ## 強み
 
 ## やったことはないが興味があるもの
 
+### Programing
+- Pytorch
 - Rasberry Pi
-- AtCodr
-- Kaggle
 - Web Scraping With Python
 - React
 - Go
+
+### Academic 
+- RL(Reinforcement Learning)
+- GAN(Generative Adversarial Network)
+- GNN(Graph Neural Network)
+- Bioninfomatics
+- Neural Science
 
 ## 登壇歴
 
@@ -53,6 +61,10 @@
 ## 執筆歴
 
 ### 論文 
+ - [『粘菌を活用した新たな経路探索アルゴリズムに関する研究 ～ダイクストラ法・粘菌アルゴリズム・強化学習の比較検証～](https://github.com/bishopfunc/highschool_paper)
+  - 首都圏オープン2021（TSEF2021）優等賞
+  - ジュニア農芸化学会2021 参加賞
+
 
 ### 商業
 

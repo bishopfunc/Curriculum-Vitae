@@ -63,11 +63,11 @@
 - RL(Reinforcement Learning)
 - GAN(Generative Adversarial Network)
 - GNN(Graph Neural Network)
+- Neural Science
 - Bioninfomatics
 - Bio-inspired Algorithms
 - Algorithms and Data structures
 - OS/CPU/Compiler 
-- Neural Science
 - AR/VR
 
 <!--## 登壇歴-->

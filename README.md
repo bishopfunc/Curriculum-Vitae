@@ -65,6 +65,8 @@
 - GNN(Graph Neural Network)
 - Bioninfomatics
 - Bio-inspired Algorithms
+- Algorithms and Data structures
+- OS/CPU/Compiler 
 - Neural Science
 - AR/VR
 

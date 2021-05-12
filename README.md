@@ -56,6 +56,8 @@
 - Web Scraping With Python
 - React
 - Go
+- C++
+- Unity
 
 ### Academic 
 - RL(Reinforcement Learning)
@@ -64,6 +66,7 @@
 - Bioninfomatics
 - Bio-inspired Algorithms
 - Neural Science
+- AR/VR
 
 <!--## 登壇歴-->
 

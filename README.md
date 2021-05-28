@@ -78,7 +78,7 @@
 
 ### 論文 
  - [『粘菌を活用した新たな経路探索アルゴリズムに関する研究 ～ダイクストラ法・粘菌アルゴリズム・強化学習の比較検証～](https://github.com/bishopfunc/highschool_paper)
-    - 首都圏オープン2021（TSEF2021） 優等賞
+    - [首都圏オープン2021（TSEF2021）](http://www.f.waseda.jp/yasushin/posts/post16.html) 優等賞
     - [ジュニア農芸化学会2021](https://www.jsbba.or.jp/2021/program_junior.html) P13-B 参加賞 
 
 

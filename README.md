@@ -44,12 +44,16 @@
 - **2022/08~** [BiosensorPuzzle](https://bishopfunc.github.io/BiosensorPuzzle/) という DNA ををパズルに見立てたゲームを開発しました
 - **2022/08~** 技育展にてオンライン勉強ルームアプリ[syncation](https://github.com/manasan-iTL/Syncation-backend) のバックエンドを FastAPI で開発しました。
 - **2022/10~** 合成生物の世界大会 iGEM に出場し、チームの website である wiki とモデリングを担当しました(https://2022.igem.wiki/waseda-tokyo/)
-- **2022/11~** 東大の松尾研主催の【世界モデルと知能】講座を受講しました [修了証](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/world_model_2022_certification.pdf)
+- **2022/11~** 東大の松尾研主催の【世界モデルと知能】講座を受講しました。 [修了証](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/world_model_2022_certification.pdf)
 - **2023/01~** Nuxt と Tailwind 製のサークルホームページを公開しました (https://igem-waseda.netlify.app/)
 - **2023/02~** 業務委託案件で python による請求書自動化 GUI アプリをは開発しました
 - **2023/03~** 【世界モデルと知能】講座の最終課題として、『人間的な処理に基づくウェブ操作モデルの検討』というテーマで研究を行い論文を作成しました。
 - **2023/03~** mixi bug shooting challenge #8 に参加しました
 - **2023/03~** ICT トラブルシューティングコンテストで早稲田チームとして出場し、８位の成績を残しました (https://icttoracon.net/archives/8986)
+- **2023/08** **PKSHA SWE短期インターン**に参加し、LLMを利用した社内Chatbotの開発に携わった。
+- **2023/08** **DMM Games インフラエンジニアインターン**に参加し、インフラの基本的な知識を身につけた。
+- **2023/08** **日経新聞社 エンジニア短期インターン**に参加し、日経電子版の新たなUIを提案した。
+- **2023/09~** **産総研 人工知能研究センター**にてインターン中、Rasberry PiとROSを利用した「100 mouse」というプロジェクトに取り組んでいる。
 
 ### **2.執筆歴:論文**
 
@@ -61,7 +65,7 @@
 
 ## **業務経験**
 
-### **株式会社 Couger 2021.5~現在**
+### **株式会社 Couger 2021.5~2023.7**
 
 1. **バーチャルエージェント API の保守**
    株式会社 Couger にて、Ludens というバーチャルエージェントの API の保守に携わりました。API には 3D モデルを歩かせたり、特定の言葉を話させる機能があり、これらの機能は Javascript で提供されています。私はこの API の機能拡張や UI 表示機能の追加、またバグ修正を行いました。私の貢献により、Ludens の応用例が増えました。

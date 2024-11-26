@@ -69,12 +69,14 @@
    - [「ロボティクス・メカトロニクス 講演会 2024」](https://robomech.org/2024/) にてポスター発表。[ポスターはこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/100mouse_poster_ver_final.pdf)
 
 ### **3.大会・コンテスト**
-1. **合成生物の世界大会 [iGEM](https://jamboree.igem.org/) 2022**
-   Best Foundational Advance Project Nominee (部門賞ノミネート) と Gold Medal を受賞しました。
+1. **合成生物の世界大会 iGEM 2022** 出場
+
+   合成生物の世界大会 [iGEM](https://jamboree.igem.org/) に早稲田大学代表チーム(Waseda-Tokyo)として出場し、Best Foundational Advance Project Nominee (部門賞ノミネート) と Gold Medal を受賞しました。
    私はチームにおいて、Nuxt.js によるウェブサイトの実装と数理モデルの構築を担当しました。[ウェブサイトはこちら](https://2022.igem.wiki/waseda-tokyo/)
 
-2. **合成生物の世界大会 [iGEM](https://jamboree.igem.org/) 2024**
-   Best Bioremediation Project (部門賞), Best New Composite Part (特別賞), Best Model Nominee (特別賞ノミネート), Best Wiki Nominee (特別賞ノミネート) と Gold Medal を受賞しました。
+2. **合成生物の世界大会 iGEM 2024** 出場
+
+   合成生物の世界大会 [iGEM](https://jamboree.igem.org/) に早稲田大学代表チーム(Waseda-Tokyo)として出場し、Best Bioremediation Project (部門賞), Best New Composite Part (特別賞), Best Model Nominee (特別賞ノミネート), Best Wiki Nominee (特別賞ノミネート) と Gold Medal を受賞しました。
    私はチームにおいて、Next.js によるウェブサイトの実装とタンパク質言語モデルによる酵素設計を担当しました。[ウェブサイトはこちら](https://2024.igem.wiki/waseda-tokyo/)
 
 ---
@@ -83,15 +85,19 @@
 
 ### 株式会社 Couger 2021.5~2023.7
 1. **バーチャルエージェント API の保守**
+
    株式会社 Couger にて、Ludens というバーチャルエージェントの API の保守に携わりました。API には 3D モデルを歩かせたり、特定の言葉を話させる機能があり、これらの機能は Javascript で提供されています。私はこの API の機能拡張や UI 表示機能の追加、またバグ修正を行いました。
 
 2. **Python による自動テストツールの保守**
+
    Ludens は、自社製の NLP モデルによって音声認識を行い、ユーザーと対話することができます。NLP モデルが更新された際に selenium や pyautogui を使用した自動化テストツールを使用しています。私は、この自動化テストツールの機能拡張を行い、テストシーンのスクリーンショットや画面録画機能を追加しました。
 
 3. **Typescript、React、Electron を利用した画像アノテーションツールの保守**
+
    当社では、視線検知を行う機械学習モデルの開発を行っています。その学習データを作成するための Electron 製の社内ツールがあります。私は、このツールの UI 変更やバグ修正を担当しました。
 
 4. **Python 製の様々な自動化ツール**
+
    PowerPoint フォントの一括変換スクリプトや、Excel データ集計ツールを開発。さらに、開発環境へのデータ移行やユーザーログの定期ダウンロードツールを構築しました。これらのツールにより、毎週約5時間の単純作業を数分に短縮し、生産性向上に大きく貢献しました。
 
 ### 産総研 人工知能研究センター 2023.9~現在

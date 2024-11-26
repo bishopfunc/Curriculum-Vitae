@@ -40,9 +40,9 @@
 - **2021/08** 技育 CAMPval08 ハッカソンに参加し、Kotolin と Flask を用いた Android アプリを開発しました。[体験談ブログはこちら](https://bishopfunc.herokuapp.com/k9goawp9gimoqz8jnxnk/)
 - **2021/09** 技育 CAMPval09 ハッカソンに参加し、Nodejs を用いた Web アプリを開発しました。[体験談ブログはこちら](https://bishopfunc.herokuapp.com/t5kl18vy7qkppsbdtslx/)
 - **2022/03** [TCP/IP プロトコルスタック自作開発 KLab Expert Camp](https://klab-hr.snar.jp/jobboard/detail.aspx?id=uJyeCPYsstg) に参加しました。
-- **2022/05** サークルで開発していた[ブックマーク共有・検索サービス Ochiba](https://ochiba.onrender.com/) をリリースしました
+- **2022/05** サークルで開発していた[ブックマーク共有・検索サービス Ochiba](https://ochiba.onrender.com/) をリリースしました。
 - **2022/07** サークルのハッカソンでサーベイ用タイマーを開発しました [レポジトリはこちら](https://github.com/bishopfunc/WINCHackathon2022)
-- **2022/08** [BiosensorPuzzle](https://bishopfunc.github.io/BiosensorPuzzle/) という DNA ををパズルに見立てたゲームを開発しました
+- **2022/08** [BiosensorPuzzle](https://bishopfunc.github.io/BiosensorPuzzle/) という DNA ををパズルに見立てたゲームを開発しました。
 - **2022/08** [技育展](https://talent.supporterz.jp/geekten/2024/)にてオンライン勉強ルームアプリ[syncation](https://github.com/manasan-iTL/Syncation-backend) のバックエンドを FastAPI で開発しました。
 - **2022/10** 合成生物学の世界大会 [iGEM](https://jamboree.igem.org/) に早稲田大学代表チーム(Waseda-Tokyo)として出場。ウェブサイトの実装と数理モデルの構築を担当しました。[ウェブサイトはこちら](https://2022.igem.wiki/waseda-tokyo/)
 - **2022/11** 東大の松尾研主催の【世界モデルと知能】講座を受講しました。 [修了証はこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/world_model_2022_certification.pdf)

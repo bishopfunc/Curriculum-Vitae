@@ -21,13 +21,13 @@
 
 ## ITスキル
 
-|        key         |         value          |
-| :----------------: | :--------------------: |
-| プログラミング言語 | Python, JS/TS, Dart, C/C++, Go |
-|   フレームワーク   | Flask, Django, FastAPI, Node.js, React, Nuxt.js, Next.js, Pytorch, Flutter, ROS 2 |
-|    データベース    | MySQL, PostgreSQL |
-|      インフラ      | Docker, Firebase, AWS, Terraform|
-|　　　研究分野  |  拡散モデル, 強化学習, タンパク質言語モデル, グラフニューラルネット, ロボット基盤モデル |
+|        key         |                                         value                                          |
+| :----------------: | :------------------------------------------------------------------------------------: |
+| プログラミング言語 |                    Python, Javascript, Typescript, Dart, C/C++, Go                     |
+|   フレームワーク   |   Flask, Django, FastAPI, Node.js, React, Nuxt.js, Next.js, Pytorch, Flutter, ROS 2    |
+|    データベース    |                                   MySQL, PostgreSQL                                    |
+|      インフラ      |                            Docker, Firebase, AWS, Terraform                            |
+|      研究分野      | 拡散モデル, 強化学習, タンパク質言語モデル, グラフニューラルネット, ロボット基盤モデル |
 ---
 
 ## 海外経験
@@ -123,12 +123,12 @@
 ## 個人開発経験
 ### 技育CAMPval08
 - **概要**: タスク管理のためのAndroidアプリ
-- **使用技術**: Kotolin, Flask
+- **使用技術**: Kotolin, Flask, Typescript
 - **担当**: バックエンド
 - **開発経緯**: 技育CAMPval08 ハッカソンに参加
 - **開発メンバー**: 2人
 - **開発期間**: 2日
-- **工夫した点**: タスクの追加、削除、完了などの基本的な機能を実装しました。Flaskを用いたバックエンド開発は初めてで大変でした。
+- **工夫した点**: 特にFirebaseに初めて触れたため、その使い方を学ぶのに苦労しました。
 
 ### 技育CAMPval09
 - **概要**: 掲示板アプリ

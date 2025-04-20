@@ -23,11 +23,11 @@
 
 |        key         |                                         value                                          |
 | :----------------: | :------------------------------------------------------------------------------------: |
-| プログラミング言語 |                    Python, Javascript, Typescript, Dart, C/C++, Go                     |
-|   フレームワーク   |   Flask, Django, FastAPI, Node.js, React, Nuxt.js, Next.js, Pytorch, Flutter, ROS 2    |
+| プログラミング<br>言語 |                    Python, Javascript, Typescript, Dart, C/C++, Go                     |
+|   フレームワーク   |   Flask, Django, FastAPI, Node.js, React, Nuxt.js, Next.js,<br> Pytorch, Flutter, ROS 2    |
 |    データベース    |                                   MySQL, PostgreSQL                                    |
 |      インフラ      |                            Docker, Firebase, AWS, Terraform                            |
-|      研究分野      | 拡散モデル, 強化学習, タンパク質言語モデル, グラフニューラルネット, ロボット基盤モデル |
+|      研究分野      | 拡散モデル, 強化学習, タンパク質言語モデル,<br> グラフニューラルネット, ロボット基盤モデル |
 ---
 
 ## 海外経験
@@ -35,8 +35,6 @@
 - **2018** カナダ 短期留学(2week)
 - **2021** オーストラリア 短期留学(2week)
 - **2022** 韓国 ハナシンポジウム(1week)
-
----
 
 
 ## 経歴
@@ -169,10 +167,21 @@
 - **担当**: FastAPIによるバックエンド開発
 - **開発経緯**: 技育展2022にて発表
 - **開発メンバー**: 4人
+- **開発期間**: 1ヶ月
 - **工夫した点**: FastAPIとWebSocketを用いて、リアルタイムでの同期機能を実装しました。ルームごとにユーザの状態を管理するAPI設計が特に難しかったです。
 - **リンク**: 
    - https://talent.supporterz.jp/geekten/2022/exhibition.html#theme9
    - https://github.com/manasan-iTL/Syncation-backend
+
+### 分散ファイルシステム
+- **概要**: キャッシュ、ロック機能実装した、複数クライアントで同期可能な分散ファイルシステム
+- **使用技術**: Go, gRPC
+- **担当**: 設計、実装
+- **開発経緯**: 大学の分散システムの授業の課題
+- **開発メンバー**: 3人
+- **開発期間**: 3ヶ月
+- **工夫した点**: gRPCを用いて、クライアントとサーバ間の通信を行いました。特に、キャッシュ機能とロック機能の実装に力を入れました。キャッシュ機能は、ファイルの読み込み速度を向上させるために実装しました。ロック機能は、複数クライアントが同時にファイルを更新する際の競合を防ぐために実装しました。
+- **リンク**: https://docs.google.com/presentation/d/1Ht44fkuu4Xwxx7PZOXV6BdBQmpuM75ju87dbJgl5LiM/edit?usp=sharing
 
 ## ウェブサイト制作
 ### iGEM 2022 成果報告ページ

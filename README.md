@@ -181,7 +181,9 @@
 - **開発メンバー**: 3人
 - **開発期間**: 3ヶ月
 - **工夫した点**: gRPCを用いて、クライアントとサーバ間の通信を行いました。特に、キャッシュ機能とロック機能の実装に力を入れました。キャッシュ機能は、ファイルの読み込み速度を向上させるために実装しました。ロック機能は、複数クライアントが同時にファイルを更新する際の競合を防ぐために実装しました。
-- **リンク**: https://docs.google.com/presentation/d/1Ht44fkuu4Xwxx7PZOXV6BdBQmpuM75ju87dbJgl5LiM/edit?usp=sharing
+- **リンク**: 
+   - https://github.com/bishopfunc/os-b-dfs
+   - https://docs.google.com/presentation/d/1Ht44fkuu4Xwxx7PZOXV6BdBQmpuM75ju87dbJgl5LiM/edit?usp=sharing
 
 ## ウェブサイト制作
 ### iGEM 2022 成果報告ページ

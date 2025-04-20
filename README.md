@@ -104,19 +104,19 @@
 ## 業務経験
 
 ### 株式会社 Couger 2021.5~2023.7
-**使用技術**: Python, Javascript, Node.js, Typescript, React, Electron
-**業務内容**: 受託開発、社内ツール開発
-**業務内容詳細**: プロダクトの教育用SDK開発、Python製のテスト自動化ツール、Electron製の画像アノテーションツールなどの開発に携わりました。毎週約5時間の単純作業を数分に短縮し、生産性向上に大きく貢献しました。
+- **使用技術**: Python, Javascript, Node.js, Typescript, React, Electron
+- **業務内容**: 受託開発、社内ツール開発
+- **業務内容詳細**: プロダクトの教育用SDK開発、Python製のテスト自動化ツール、Electron製の画像アノテーションツールなどの開発に携わりました。毎週約5時間の単純作業を数分に短縮し、生産性向上に大きく貢献しました。
 
 ### 産総研 人工知能研究センター 2023.9~現在
-**使用技術**: Python, C++, ROS 2
-**業務内容**: ロボットシステムの開発, 論文執筆
-**業務内容詳細**: 100 台のロボットを制御する、MAPF（Multi-Agent Path Finding）研究のためのロボットシステムの開発にゼロから携わりました。このプロジェクトの成果は[ロボティクス・メカトロニクス 講演会 2024](https://robomech.org/2024/)にて発表されました([ポスターはこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/100mouse_poster_ver_final.pdf))。また、本研究をさらに発展させた論文を執筆し、英文論文誌である[JRM(Journal of Robotics and Mechatronics)](https://www.fujipress.jp/jrm/rb-about_ja/)に投稿し、現在査読中です。現在は、VLA(Vision Action Lanaguage Model)を用いた4足歩行ロボットの歩容生成の研究に取り組んでいます。
+- **使用技術**: Python, C++, ROS 2
+- **業務内容**: ロボットシステムの開発, 論文執筆
+- **業務内容詳細**: 100 台のロボットを制御する、MAPF（Multi-Agent Path Finding）研究のためのロボットシステムの開発にゼロから携わりました。このプロジェクトの成果は[ロボティクス・メカトロニクス 講演会 2024](https://robomech.org/2024/)にて発表されました([ポスターはこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/100mouse_poster_ver_final.pdf))。また、本研究をさらに発展させた論文を執筆し、英文論文誌である[JRM(Journal of Robotics and Mechatronics)](https://www.fujipress.jp/jrm/rb-about_ja/)に投稿し、現在査読中です。現在は、VLA(Vision Action Lanaguage Model)を用いた4足歩行ロボットの歩容生成の研究に取り組んでいます。
 
 ### 株式会社 EpicAI 2024.8~現在
-**使用技術**: Python, Pytorch, Github Actions
-**業務内容**: 機械学習モデルの開発
-**業務内容詳細**: 配送計画を機械学習とヒューリスティックで最適化するプロジェクトに携わりました。AIエンジニアとして機械学習モデルの訓練やヒューリスティックアルゴリズムの実装だけでなく、サブPMとしてプロジェクトの納品管理も行いました。納品に向けて、①GitHub Actionsによるテスト自動化の導入、②PR運用ルールの整備、③ドキュメント整備を行い、ソースコードの品質向上と開発の効率化に貢献しました。
+- **使用技術**: Python, Pytorch, Github Actions
+- **業務内容**: 機械学習モデルの開発
+- **業務内容詳細**: 配送計画を機械学習とヒューリスティックで最適化するプロジェクトに携わりました。AIエンジニアとして機械学習モデルの訓練やヒューリスティックアルゴリズムの実装だけでなく、サブPMとしてプロジェクトの納品管理も行いました。納品に向けて、①GitHub Actionsによるテスト自動化の導入、②PR運用ルールの整備、③ドキュメント整備を行い、ソースコードの品質向上と開発の効率化に貢献しました。
 
 ## 個人開発経験
 ### 技育CAMPval08

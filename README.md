@@ -114,7 +114,7 @@ iGEMのチームには生物実験担当と情報系メンバーが混在して�
 ### 産業技術総合研究所 人工知能研究センター 2023.9~現在
 - **使用技術**: Python, C++, ROS 2
 - **業務内容**: ロボットシステムの開発, 論文執筆
-- **業務内容詳細**: 最大100台のロボットを同時に制御するMAPF（Multi-Agent Path Finding）研究の基盤構築が求められる中、私はロボット制御システムの設計・開発をゼロから担当しました。Python/C++とROS 2を用いて、ロボット群の位置制御、姿勢制御、経路計画などの機能をROS 2のノードとして実装しました。この成果は[ロボティクス・メカトロニクス 講演会 2024](https://robomech.org/2024/)にて発表されました([ポスターはこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/100mouse_poster_ver_final.pdf))で発表され、英文論文誌である[JRM(Journal of Robotics and Mechatronics)](https://www.fujipress.jp/jrm/rb-about_ja/)に投稿し、現在査読中です。さらに、最近はVLA(Vision-Language-Action)モデルを用いた歩容生成の研究に取り組んでいます。
+- **業務内容詳細**: 最大100台のロボットを同時に制御するMAPF（Multi-Agent Path Finding）研究の基盤構築が求められる中、私はロボット制御システムの設計・開発をゼロから担当しました。Python/C++とROS 2を用いて、ロボット群の位置制御、姿勢制御、経路計画などの機能をROS 2のノードとして実装しました。この成果は[ロボティクス・メカトロニクス 講演会 2024](https://robomech.org/2024/)にて発表されました([ポスターはこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/100mouse_poster_ver_final.pdf))、英文論文誌である[JRM(Journal of Robotics and Mechatronics)](https://www.fujipress.jp/jrm/rb-about_ja/)に投稿し、現在査読中です。さらに、最近はVLA(Vision-Language-Action)モデルを用いた歩容生成の研究に取り組んでいます。
 
 ### 合同会社EXNOA(DMM Games) 2023.8
 - **使用技術**: AWS, GCP, Azure, Terraform, Kubernetes

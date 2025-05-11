@@ -97,7 +97,7 @@
 ###  合成生物の世界大会 iGEM 2024　（200チーム中TOP10, 複数受賞）
 合成生物の世界大会 [iGEM](https://jamboree.igem.org/) に早稲田大学代表チーム(Waseda-Tokyo)として出場し、Best Bioremediation Project (**部門賞**), Best New Composite Part (**特別賞**), Best Model Nominee (**特別賞ノミネート**), Best Wiki Nominee (**特別賞ノミネート**) と Gold Medal を受賞し、約200チーム中の**TOP10**入りを果たしました。私はチーム内で主に3つの役割を担いました。1つ目はエンジニアとして、Next.js を用いたウェブサイトの実装を担当しました。2つ目はモデリング担当として、タンパク質言語モデルによる酵素設計や、数理モデルを用いた生物挙動の予測を行いました。3つ目は渉外担当として、クラウドファンディングにより80万円を調達し、企業からの協賛獲得や共同企画の推進にも貢献しました。[英語サイト](https://2024.igem.wiki/waseda-tokyo/)、 [日本語サイト](https://igem-waseda.netlify.app/)。
 
-iGEMのチームには生物実験担当と情報系メンバーが混在しており、認識のズレや連携の難しさが課題でした。私はモデリング担当として、タンパク質言語モデルによる酵素設計や数理モデルによる生物挙動の予測に取り組みましたが、その成果を実験担当にも理解・活用してもらえる体制づくりが必要でした。そこで、専門用語や評価指標をかみ砕いて説明し、機械学習や数理モデルが入賞を目指す上でどのように貢献できるかを具体的に共有しました。また、モデル構築に必要な生物学的知識や実験データの取得においては、専門メンバーと1on1や定期的な対話を重ね、双方向の理解と連携を深めました。その結果、チーム内の協働体制が大きく改善され、実験とモデリングが相互に補完し合う形で提案内容に一貫性と説得力を与えることができました。この成果は、iGEM大会ではBest Model Nomineeとして国際的に評価されました。
+iGEMのチームには生物実験担当と情報系メンバーが混在しており、認識のズレや連携の難しさが課題でした。私はモデリング担当として、タンパク質言語モデルによる酵素設計や数理モデルによ遺伝子回路挙動の予測に取り組みましたが、その成果を実験担当にも理解・活用してもらえる体制づくりが必要でした。そこで、専門用語や評価指標をかみ砕いて説明し、機械学習や数理モデルが入賞を目指す上でどのように貢献できるかを具体的に共有しました。また、モデル構築に必要な生物学的知識や実験データの取得においては、専門メンバーと1on1や定期的な対話を重ね、双方向の理解と連携を深めました。その結果、チーム内の協働体制が大きく改善され、実験とモデリングが相互に補完し合う形で提案内容に一貫性と説得力を与えることができました。この成果は、iGEM大会ではBest Model Nomineeとして国際的に評価されました。
 
 ### Kaggle Santa 2024 (銅メダル)
 [Kaggle Santa 2024](https://www.kaggle.com/competitions/santa-2024)に参加し、銅メダルを獲得しました。このコンペは、通常の文章の順番を入れ替えたサンプルが与えられ、それらの単語を並べ替えることによって、LLMによる評価値(Perplexity)を最小化するというものでした。私たちのチームは、局所的に単語を入れ替えたりする状態遷移をを行い、焼きなましを用いて最適化を行いました。私はチームにおいて、スコアの向上に貢献しなかったものの、分割統治アイデアの実装を担当しました。また、スコアを左右する重要な要素である乱数シードの探索にも貢献しました。
@@ -213,7 +213,7 @@ iGEMのチームには生物実験担当と情報系メンバーが混在して�
 - **工夫した点**: gRPCを用いて、クライアントとサーバ間の通信を行いました。特に、キャッシュ機能とロック機能の実装に力を入れました。キャッシュ機能は、ファイルの読み込み速度を向上させるために実装しました。ロック機能は、複数クライアントが同時にファイルを更新する際の競合を防ぐために実装しました。
 - **リンク**: 
    - https://github.com/bishopfunc/os-b-dfs
-   - https://docs.google.com/presentation/d/1Ht44fkuu4Xwxx7PZOXV6BdBQmpuM75ju87dbJgl5LiM/edit?usp=sharing
+   - https://drive.google.com/file/d/1_jYtEm63lqtM9TRM5EtCb4Egt2stWgMK/view?usp=sharing
 
 ## ウェブサイト制作
 ### iGEM 2022 成果報告ページ
@@ -236,6 +236,19 @@ iGEMのチームには生物実験担当と情報系メンバーが混在して�
 - **担当**: フロントエンド
 - **開発メンバー**: 1人
 - **リンク**: https://igem-waseda.netlify.app/
+
+### 成果物まとめ
+- Zenn: https://zenn.dev/bishopfunc
+- GitHub: https//github.com/bishopfunc
+- CV: https//github.com/bishopfunc/Curriculum-Vitae
+- サークルホームページ: https://igem-waseda.netlify.app
+- iGEM 2022 成果報告ページ: https://2022.igem.wiki/waseda-tokyo/
+- iGEM 2024 成果報告ページ: https://2024.igem.wiki/waseda-tokyo/
+- 分散ファイルシステム: https://drive.google.com/file/d/1_jYtEm63lqtM9TRM5EtCb4Egt2stWgMK/view?usp=sharing
+- DNAパズルゲーム: https://bishopfunc.github.io/BiosensorPuzzle
+- ブックマーク共有・検索サービス: https://ochiba.onrender.com/
+- オンライン勉強ルームアプリ: https://github.com/manasan-iTL/Syncation-backend
+
 
 
 ## 自己PR

@@ -75,7 +75,7 @@
   - 「首都圏オープン 2021（TSEF2021) 」 優等賞
   - [「ジュニア農芸化学会 2021」 P13-B 参加賞](https://www.jsbba.or.jp/2021/program_junior.html)
 - 「100 台のRaspberry Pi Mouse を制御する ROS ベースの群ロボットシステムの開発」
-   - [「ロボティクス・メカトロニクス 講演会 2024」](https://robomech.org/2024/) にてポスター発表。[ポスターはこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/100mouse_poster_ver_final.pdf)
+   - [「ロボティクス・メカトロニクス 講演会 2024」](https://robomech.org/2024/) にてポスター発表。[ポスターはこちら](https://drive.google.com/file/d/1Pu4KfMKfuu7GrKscd3aBVf9qom2S4hYv/view?usp=sharing)
 - 「機能性タンパク質の設計のためのPLMによるガイド付き強化学習手法の検討」
    - 「人工知能学会全国大会2025」 にて口頭発表予定。[概要はこちら](https://confit.atlas.jp/guide/event/jsai2025/subject/2L1-OS-25-03/classlist)
 - 「The 100 Mouse System: A Scalable Multi-Robot Testbed with State Management User Interface」

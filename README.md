@@ -5,7 +5,7 @@
 |  key   |                       value                       |
 | :----: | :-----------------------------------------------: |
 |  名前  |             山本翔太(Shota YAMAMOTO)              |
-|  修士  | 早稲田大学基幹理工研究科 情報理工・通信専攻 修士1年 |
+|  修士  | 早稲田大学基幹理工研究科 情報理工・通信専攻 修士1年(27卒) |
 |  学部  |  早稲田大学基幹理工学部 情報理工学科 卒業 |   
 |  ゼミ  | [笠井裕之研究室](http://kasai.comm.waseda.ac.jp/) |
 | GitHub |    [bishopfunc](https://github.com/bishopfunc)    |
@@ -24,61 +24,55 @@
 
 |        key         |                                         value                                          |
 | :----------------: | :------------------------------------------------------------------------------------: |
-| プログラミング<br>言語 |                    Python, Javascript, Typescript, Dart, C/C++, Go                     |
-|   フレームワーク   |   Flask, Django, FastAPI, Node.js, React, Nuxt.js, Next.js,<br> Pytorch, Flutter, ROS 2    |
+| プログラミング<br>言語 |                    Python, Javascript, Typescript, C/C++, Go                     |
+|   フレームワーク   |   Flask, Django, FastAPI, Node.js, React, Nuxt.js, Next.js,<br> Pytorch, ROS 2    |
 |    データベース    |                                   MySQL, PostgreSQL                                    |
-|      インフラ      |                            Docker, Firebase, AWS, Terraform                            |
+|      インフラ      |                            Docker, AWS, Terraform                            |
 |      研究分野      | 拡散モデル, 強化学習, タンパク質言語モデル,<br> グラフニューラルネット, ロボット基盤モデル |
 ---
 
-## 海外経験
+<!-- ## 海外経験
 - **2011-2016** 中国 小学3年~中学1年まで現地校に在学
 - **2018** カナダ 短期留学(2week)
 - **2021** オーストラリア 短期留学(2week)
-- **2022** 韓国 ハナシンポジウム(1week)
+- **2022** 韓国 ハナシンポジウム(1week) -->
 
 
 ## 経歴
-- **2021/02** 『粘菌を活用した新たな経路探索アルゴリズムに関する研究 ～ダイクストラ法・粘菌アルゴリズム・強化学習の比較検証～』
-  という研究テーマで、「首都圏オープン 2021（TSEF2021） 優等賞」と「ジュニア農芸化学会 2021 P13-B 参加賞」を受賞。[リンクはこちら](https://github.com/bishopfunc/highschool_paper)
-- **2021/04** 早稲田大学基幹理工学部入学
-- **2021/05** [**株式会社クーガー**](https://couger.co.jp/) にてインターンとして勤務。
-- **2021/07** 生物実験の効率化ツール[Data Visualization Tool](https://github.com/iGEM-Waseda/igemwaseda_biotools/tree/master/data_visualization_tool) を開発。
-- **2021/08** 技育CAMPval08 ハッカソンに参加し、Kotolin と Flask を用いた Android アプリを開発、バックエンドを担当。
-- **2021/09** 技育CAMPval09 ハッカソンに参加し、Nodejsを用いた掲示板アプリを開発。
+| 年月  |                             内容                              |
+| :---: | :----------------------------------------------------------: |
+| **2021/04** | 早稲田大学基幹理工学部入学 |
+| **2021/05** | 株式会社CougerにてQAエンジニアインターンとして勤務。 |
+| **2023/07** | 株式会社Cougerを退職。 |
+| **2023/07** | 株式会社PKSHA TechnologyにてSWE短期インターンとして勤務。 |
+| **2023/08** | 合同会社EXNOA(DMM Games)にてインフラエンジニア短期インターンとして勤務。 |
+| **2023/08** | 株式会社日本経済新聞社にてSWE短期インターンとして勤務。 |
+| **2023/09** | 産業技術総合研究所 人工知能研究センターにてテクカルスタッフとして勤務。 |
+| **2024/04** | 早稲田大学基幹理工学部 笠井研究室にて研究室配属。 |
+| **2024/08** | 株式会社EpicAIにて機械学習エンジニアインターンとして勤務。 |
+| **2025/03** | 早稲田大学基幹理工学部 卒業 |
+| **2025/04** | 早稲田大学基幹理工研究科 入学 |
+
+
+
+## 修了歴
 - **2022/03** [TCP/IP プロトコルスタック自作開発 KLab Expert Camp](https://klab-hr.snar.jp/jobboard/detail.aspx?id=uJyeCPYsstg) に参加し、C++ を用いて TCP/IP プロトコルスタック自作を体験。
-- **2022/05** Django製のWebアプリ[ブックマーク共有・検索サービス Ochiba](https://ochiba.onrender.com/) を開発しリリース(現在はサービス終了)。
-- **2022/07** ハッカソンでサーベイ用タイマーをChrome拡張機能として開発した。[レポジトリはこちら](https://github.com/bishopfunc/WINCHackathon2022)。
-- **2022/08** [BiosensorPuzzle](https://bishopfunc.github.io/BiosensorPuzzle/) という DNA ををパズルに見立てたゲームを開発した。
-- **2022/08** [技育展](https://talent.supporterz.jp/geekten/2024/)にてオンライン勉強ルームアプリ[syncation](https://github.com/manasan-iTL/Syncation-backend) のバックエンドを FastAPI で開発。
-- **2022/10** 合成生物学の世界大会 [iGEM](https://jamboree.igem.org/) に早稲田大学代表チーム(Waseda-Tokyo)として出場し、Best Foundational Advance Project Nominee (部門賞ノミネート) と Gold Medal を受賞した。[英語サイト](https://2022.igem.wiki/waseda-tokyo/), [日本語サイト](https://igem-waseda.netlify.app/)。
 - **2022/11** 東大の松尾研主催の【世界モデルと知能】講座を受講した。 [修了証はこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/world_model_2022_certification.pdf)。
-- **2023/01** Nuxt.jsとTailwind 製のサークルホームページを公開した。 [ホームページはこちら](https://igem-waseda.netlify.app/)。
-- **2023/02** 業務委託案件で python による請求書自動化 GUI アプリを開発した。
-- **2023/03** 【世界モデルと知能】講座の最終課題として、『人間的な処理に基づくウェブ操作モデルの検討』というテーマで研究を行い論文を執筆した。[論文はこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/world_model_paper.pdf)。
 - **2023/03** 「mixi bug shooting challenge #8」 に参加した。
 - **2023/03** 「ICT トラブルシューティングコンテスト」で早稲田チームとして出場し、8位の成績を残した。[順位表はこちら](https://icttoracon.net/archives/8986)。
-- **2023/07** [**株式会社クーガー**](https://couger.co.jp/)を退職。
-- **2023/08** **「PKSHA SWE短期インターン」** に参加し、LLMを利用した社内Chatbotの開発に携わる。
-- **2023/08** **「DMM Games インフラエンジニアインターン」** に参加し、基本的なインフラ業務を体験した。
-- **2023/08** **「日経新聞社 エンジニア短期インターン」** に参加し、日経電子版の新たなUIを提案した。
-- **2023/09** **産総研 人工知能研究センター** にてテクカルスタッフとして勤務。
-- **2024/04** [早稲田大学基幹理工学部 笠井研究室](http://kasai.comm.waseda.ac.jp/)にて研究室配属。
-- **2024/08** [**株式会社EpicAI**](https://epicai.co.jp/)にて業務委託として勤務。
-- **2024/08** 合成生物の世界大会 [iGEM](https://jamboree.igem.org/) に早稲田大学代表チーム(Waseda-Tokyo)として出場。約200チーム中、TOP10入りを果たす。[英語サイト](https://2022.igem.wiki/waseda-tokyo/) [日本語サイト](https://igem-waseda.netlify.app/)
-- **2025/03** 早稲田大学基幹理工学部 卒業
-- **2025/04** 早稲田大学基幹理工研究科 入学
 
 ## 執筆歴: 研究
-
-- [「粘菌を活用した新たな経路探索アルゴリズムに関する研究」〜ダイクストラ法・粘菌アルゴリズム・強化学習の比較検証〜](https://github.com/bishopfunc/highschool_paper)
+- **2021/02** [「粘菌を活用した新たな経路探索アルゴリズムに関する研究」〜ダイクストラ法・粘菌アルゴリズム・強化学習の比較検証〜](https://github.com/bishopfunc/highschool_paper)
   - 「首都圏オープン 2021（TSEF2021) 」 優等賞
   - [「ジュニア農芸化学会 2021」 P13-B 参加賞](https://www.jsbba.or.jp/2021/program_junior.html)
-- 「100 台のRaspberry Pi Mouse を制御する ROS ベースの群ロボットシステムの開発」
+- **2023/03**「人間的な処理に基づくウェブ操作モデルの検討」
+  - 【世界モデルと知能】講座の最終課題として執筆。 [論文はこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/world_model_paper.pdf)
+- **2024/05**「100 台のRaspberry Pi Mouse を制御する ROS ベースの群ロボットシステムの開発」
    - [「ロボティクス・メカトロニクス 講演会 2024」](https://robomech.org/2024/) にてポスター発表。[ポスターはこちら](https://drive.google.com/file/d/1Pu4KfMKfuu7GrKscd3aBVf9qom2S4hYv/view?usp=sharing)
-- 「機能性タンパク質の設計のためのPLMによるガイド付き強化学習手法の検討」
-   - 「人工知能学会全国大会2025」 にて口頭発表予定。[概要はこちら](https://confit.atlas.jp/guide/event/jsai2025/subject/2L1-OS-25-03/classlist)
-- 「The 100 Mouse System: A Scalable Multi-Robot Testbed with State Management User Interface」
+- **2025/05**「機能性タンパク質の設計のためのPLMによるガイド付き強化学習手法の検討」
+   - 「人工知能学会全国大会2025」 にて口頭発表。[概要はこちら](https://confit.atlas.jp/guide/event/jsai2025/subject/2L1-OS-25-03/classlist)
+- **2025/02**
+「The 100 Mouse System: A Scalable Multi-Robot Testbed with State Management User Interface」
    - 「Journal of Robotics and Mechatronics」 にて査読中。
 
 ## 執筆歴: 記事
@@ -95,9 +89,9 @@
 合成生物の世界大会 [iGEM](https://jamboree.igem.org/) に早稲田大学代表チーム(Waseda-Tokyo)として出場し、Best Foundational Advance Project Nominee (**部門賞ノミネート**) と Gold Medal を受賞しました。私はチームにおいて、Nuxt.js によるウェブサイトの実装と数理モデルの構築を担当しました。[英語サイト](https://2022.igem.wiki/waseda-tokyo/) [日本語サイト](https://igem-waseda.netlify.app/)
 
 ###  合成生物の世界大会 iGEM 2024　（200チーム中TOP10, 複数受賞）
-合成生物の世界大会 [iGEM](https://jamboree.igem.org/) に早稲田大学代表チーム(Waseda-Tokyo)として出場し、Best Bioremediation Project (**部門賞**), Best New Composite Part (**特別賞**), Best Model Nominee (**特別賞ノミネート**), Best Wiki Nominee (**特別賞ノミネート**) と Gold Medal を受賞し、約200チーム中の**TOP10**入りを果たしました。私はチーム内で主に3つの役割を担いました。1つ目はエンジニアとして、Next.js を用いたウェブサイトの実装を担当しました。2つ目はモデリング担当として、タンパク質言語モデルによる酵素設計や、数理モデルを用いた生物挙動の予測を行いました。3つ目は渉外担当として、クラウドファンディングにより80万円を調達し、企業からの協賛獲得や共同企画の推進にも貢献しました。[英語サイト](https://2024.igem.wiki/waseda-tokyo/)、 [日本語サイト](https://igem-waseda.netlify.app/)。
+合成生物の世界大会 [iGEM](https://jamboree.igem.org/) に早稲田大学代表チーム(Waseda-Tokyo)として出場し、Best Bioremediation Project (**部門賞**), Best New Composite Part (**特別賞**), Best Model Nominee (**特別賞ノミネート**), Best Wiki Nominee (**特別賞ノミネート**) と Gold Medal を受賞し、約200チーム中の**TOP10**入りを果たしました。私はチーム内で主に3つの役割を担いました。1つ目はエンジニアとして、Next.js を用いたウェブサイトの実装を担当しました。2つ目はバイオインフォチームのリーダーを務め、タンパク質言語モデルを用いた酵素設計や、数理モデルによる生物挙動の予測などを主導しました。3つ目は渉外担当として、クラウドファンディングにより80万円を調達し、企業からの協賛獲得や共同企画の推進にも貢献しました。[英語サイト](https://2024.igem.wiki/waseda-tokyo/)、 [日本語サイト](https://igem-waseda.netlify.app/)。
 
-iGEMのチームには生物実験担当と情報系メンバーが混在しており、認識のズレや連携の難しさが課題でした。私はモデリング担当として、タンパク質言語モデルによる酵素設計や数理モデルによ遺伝子回路挙動の予測に取り組みましたが、その成果を実験担当にも理解・活用してもらえる体制づくりが必要でした。そこで、専門用語や評価指標をかみ砕いて説明し、機械学習や数理モデルが入賞を目指す上でどのように貢献できるかを具体的に共有しました。また、モデル構築に必要な生物学的知識や実験データの取得においては、専門メンバーと1on1や定期的な対話を重ね、双方向の理解と連携を深めました。その結果、チーム内の協働体制が大きく改善され、実験とモデリングが相互に補完し合う形で提案内容に一貫性と説得力を与えることができました。この成果は、iGEM大会ではBest Model Nomineeとして国際的に評価されました。
+当初、チーム内では実験担当（WET）と情報担当（DRY）の認識のズレや連携の難しさが課題でした。DRYチームはモデル作成のための事前知識の勉強に時間を割く必要があり、WETチームにその必要性をなかなか理解してもらえませんでした。一方、DRYチームでは自分たちを単なる技術提供者と捉え、WETチームの実験方針に対して積極的に関与しようとしない傾向がありました。そこで私は、両者の長期的なロードマップを可視化し、お互いの活動の成果にどのように貢献するかを示しました。また、従来はDRYとWETのように分野に分かれていたチームを、複数の実験をベースとしたチームに編成し、DRYとWETが交流する場を強制的に設けました。これにより、DRYのメンバーが実験の方針策定にも積極的に関与できるようになり、WET側もDRYの活動の重要性を理解するようになりました。その結果、実験とモデリングが互いに補完し合う体制が構築され、提案内容の一貫性と説得力が向上しました。この取り組みは、iGEM本大会にてBest Model Nomineeおよび世界TOP10チームとして国際的な評価を受けました。
 
 ### Kaggle Santa 2024 (銅メダル)
 [Kaggle Santa 2024](https://www.kaggle.com/competitions/santa-2024)に参加し、銅メダルを獲得しました。このコンペは、通常の文章の順番を入れ替えたサンプルが与えられ、それらの単語を並べ替えることによって、LLMによる評価値(Perplexity)を最小化するというものでした。私たちのチームは、局所的に単語を入れ替えたりする状態遷移をを行い、焼きなましを用いて最適化を行いました。私はチームにおいて、スコアの向上に貢献しなかったものの、分割統治アイデアの実装を担当しました。また、スコアを左右する重要な要素である乱数シードの探索にも貢献しました。
@@ -119,9 +113,9 @@ iGEMのチームには生物実験担当と情報系メンバーが混在して�
 - **業務内容詳細**: 最大100台のロボットを同時に制御するマルチエージェントロボットの実験基盤の構築が求められる中、私はロボット制御システムの設計・開発をゼロから担当しました。Python/C++とROS 2を用いて、ロボット群の位置制御、姿勢制御、経路計画などの機能をROS 2のノードとして実装しました。この成果は[ロボティクス・メカトロニクス 講演会 2024](https://robomech.org/2024/)にて発表され([ポスターはこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/100mouse_poster_ver_final.pdf))、英文論文誌である[JRM(Journal of Robotics and Mechatronics)](https://www.fujipress.jp/jrm/rb-about_ja/)に投稿しました(現在査読中)。この実験基盤は、今後のMAPF（Multi-Agent Path Finding）やSwarm Roboticsなど研究の評価に活用され、組織内で**1~2研究プロジェクト/年の利用**が見込まれています。さらに、最近はVLA(Vision-Language-Action)モデルを用いた4足ロボットの歩容生成の研究に取り組んでいます。
 
 ### 合同会社EXNOA(DMM Games) 2023.8
-- **使用技術**: AWS, GCP, Azure, Terraform, Kubernetes
+- **使用技術**: AWS, Terraform
 - **業務内容**: 基本的なインフラ業務の体験
-- **業務内容詳細**: 社内のインフラ業務を体験することを目的としたインターンで、私は監視botの移行を行いました。古いオンプレから新しいクラウドにインフラが移行されたが、監視botは古いインフラにしか対応していないという課題を解決するために、Terraformを用いてAWSのインフラを構築し、監視botの移行を行いました。その結果、**毎日**管理サイトにログインして障害発生状況を確認する手間を省くことができ、担当者の**トイルを15%削減**することに成功しました。また、Terraformを用いてインフラをコード化することで、今後の運用が容易になるという効果も得ました。さらに、GCPとAzureの基礎を学び、Kubernetesを用いてAzure OpenAIのAPIを利用した社内向けChatbotの開発も行いました。
+- **業務内容詳細**: 社内のインフラ業務を体験することを目的としたインターンで、私は監視botの移行を行いました。古いオンプレから新しいクラウドにインフラが移行されたが、監視botは古いインフラにしか対応していないという課題を解決するために、Terraformを用いてAWSのインフラを構築し、監視botの移行を行いました。その結果、**毎日**管理サイトにログインして障害発生状況を確認する手間を省くことができ、担当者の**トイルを15%削減**することに成功しました。また、Terraformを用いてインフラをコード化することで、今後の運用が容易になるという効果も得ました。
 <!-- 確認時間30min -> 監視botの確認時間5min -->
 <!-- インパクト = 1 / 6 = 15% /人-->
 
@@ -141,7 +135,7 @@ iGEMのチームには生物実験担当と情報系メンバーが混在して�
 
 ### 株式会社 Couger 2021.5~2023.7
 - **使用技術**: Python, Javascript, Node.js, Typescript, React, Electron
-- **業務内容**: 受託開発、社内ツール開発
+- **業務内容**: QA自動化、社内ツール開発
 - **業務内容詳細**: QAエンジニアインターンとして、QAの業務を行いながらテスト自動化や社内ツールの開発を行いました。会社のプロダクトがUnityとJavascript製の独自のUIフレームワークを用いているため、QA業務は手動で行うことが多く、テスト自動化の必要性を感じました。そこで、PythonとSeleniumを用いて、テスト項目からE2Eテストを実施し、QAレポートを自動生成するツールを開発しました。このツールにより、**2週間に1回程度**の頻度で発生していたQA業務の効率化が図られ、**業務時間を50%削減**することに成功しました。また、SDKで提供されているJavascript製の独自のUIフレームワークのドキュメント整備やサンプルコードが不足していたため、自ら積極的に最新版に更新する作業を行いました。さらに、PMが行なっていたプロダクトの利用状況に関する週次データ集計業務の自動化を自ら提案し、**毎週約5時間の単純作業を数分**に短縮しました。
 
 <!-- QA業務フロー = QAレポート作成(30min) + テスト項目実行(30min) + テスト項目設計(30min) => QAレポート作成(10min) + テスト項目実行(5min) + テスト項目設計(30min) -->

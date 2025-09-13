@@ -52,6 +52,8 @@
 | **2024/08** | 株式会社EpicAIにて機械学習エンジニアインターンとして勤務。 |
 | **2025/03** | 早稲田大学基幹理工学部 卒業 |
 | **2025/04** | 早稲田大学基幹理工研究科 入学 |
+| **2025/08** | 株式会社Preferred Networksにてリサーチインターンとして勤務。|
+| **2025/10** | 株式会社リクルートにてデータサイエンティストインターンとして勤務。|
 
 
 
@@ -84,6 +86,14 @@
 - [機械学習によるタンパク質の変異設計、In Silicoスクリーニング、分子ドッキング【iGEM-Wasedaプロジェクトレポート】](https://labo-code.com/bioinformatics/protein-design-screening-docking-igem-waseda/)
 
 
+## 研究経験
+### タンパク質設計のためのPLMによるガイド付き強化学習手法の検討
+人類はこれまで、自然界に存在する有用なタンパク質を医療や創薬などの産業に応用してきました。これらのタンパク質の機能を向上させることができれば、応用の可能性はさらに広がります。従来の強化学習を用いた設計手法では、機能性の向上は期待できるものの、生物学的妥当性が十分に保証されないという課題がありました。そこで私は、大量のタンパク質配列データを学習したタンパク質言語モデルの知識を、強化学習の報酬や方策に統合することで、機能性と生物学的妥当性の両立を目指す手法を提案し、JSAI25にて口頭発表を行いました。
+
+### ベクターフォント生成モデルの研究
+従来のフォント生成モデルではラスター画像を対象とし、生成されたフォントを再度人手で修正することが難しいという課題がありました。さらに、実用的なフォント生成には高速な生成や一貫性、少数サンプルでの生成が求められます。そこで私は、上記の要件を満たすようなベクターフォントを直接生成する生成モデルについて研究を取り組んでいます。
+
+
 ## 大会・コンテスト
 ### 合成生物の世界大会 iGEM 2022 (部門賞ノミネート)
 合成生物の世界大会 [iGEM](https://jamboree.igem.org/) に早稲田大学代表チーム(Waseda-Tokyo)として出場し、Best Foundational Advance Project Nominee (**部門賞ノミネート**) と Gold Medal を受賞しました。私はチームにおいて、Nuxt.js によるウェブサイトの実装と数理モデルの構築を担当しました。[英語サイト](https://2022.igem.wiki/waseda-tokyo/) [日本語サイト](https://igem-waseda.netlify.app/)
@@ -98,9 +108,20 @@
 
 ---
 
-## 業務経験
 
-### 株式会社 EpicAI 2024.8~現在
+## 業務経験
+### 株式会社リクルート 2025.10~11
+- **使用技術**: -
+- **業務内容**: -
+- **業務内容詳細**: -
+
+
+### 株式会社Preferred Networks 2025.8~9
+- **使用技術**: Python, Pytorch
+- **業務内容**: RD36.ncRNAの核酸医薬としての有効性の予測モデル構築・有望な候補配列を生成する基盤モデルの研究
+- **業務内容詳細**: PFNが保有する計算機資源および大規模言語モデル・RNA配列生成モデルやその開発に係る知見を活用し、核酸医薬として有効と予測される塩基配列の生成と評価に取り組みます。目的関数としては、in-silicoのクライテリアのほかにWet実験データも利用できる予定です。それらを組み合わせて目的関数を精緻化する研究にも取り組んでいただく予定です。(募集ページより引用)
+
+### 株式会社EpicAI 2024.8~現在
 - **使用技術**: Python, Pytorch, Github Actions
 - **業務内容**: 機械学習モデルの開発
 - **業務内容詳細**: 配送計画最適化プロジェクトにおいて、私はAIエンジニア兼サブPMとして参画しました。PythonとPytorchを用いた機械学習モデルの訓練、ヒューリスティックアルゴリズムの設計・実装を担当する一方で、納品に向けてプロジェクト管理業務にも取り組みました。不確実性が高く、スピード感が求められているプロジェクトであったため、研究開発段階ではコードレビューとドキュメント整備が不十分で、リファクタリングやドキュメント整備が必要でした。そこで、プロジェクト末期において、納品物の品質を担保するために、以下の3つの施策を提案・実行しました。①GitHub ActionsによるCIテスト自動化の導入、②PRルールの整備によるレビュー体制の強化、③設計や運用に関するドキュメント整備。この結果、**1PRにかかる作業時間とレビュー時間を30%削減**し、納品物の品質を担保することができました。また、社内においてもコードレビュー、ドキュメント整備、テスト自動化の認識を広めることができました。これらの施策は、今後のプロジェクトにおいても継続的に活用される予定です。
@@ -232,21 +253,21 @@
 - **リンク**: https://igem-waseda.netlify.app/
 
 ### 成果物まとめ
-- Zenn: https://zenn.dev/bishopfunc
-- GitHub: https//github.com/bishopfunc
-- CV: https//github.com/bishopfunc/Curriculum-Vitae
-- サークルホームページ: https://igem-waseda.netlify.app
-- iGEM 2022 成果報告ページ: https://2022.igem.wiki/waseda-tokyo/
-- iGEM 2024 成果報告ページ: https://2024.igem.wiki/waseda-tokyo/
-- 分散ファイルシステム: https://drive.google.com/file/d/1_jYtEm63lqtM9TRM5EtCb4Egt2stWgMK/view?usp=sharing
-- DNAパズルゲーム: https://bishopfunc.github.io/BiosensorPuzzle
-- ブックマーク共有・検索サービス: https://ochiba.onrender.com/
-- オンライン勉強ルームアプリ: https://github.com/manasan-iTL/Syncation-backend
+- Zenn: [https://zenn.dev/bishopfunc](https://zenn.dev/bishopfunc)
+- GitHub: [https//github.com/bishopfunc](https//github.com/bishopfunc)
+- CV: [https//github.com/bishopfunc/Curriculum-Vitae](https//github.com/bishopfunc/Curriculum-Vitae)
+- サークルホームページ: [https://igem-waseda.netlify.app/](https://igem-waseda.netlify.app/)
+- iGEM 2022 成果報告ページ: [https://2022.igem.wiki/waseda-tokyo/](https://2022.igem.wiki/waseda-tokyo/)
+- iGEM 2024 成果報告ページ: [https://2024.igem.wiki/waseda-tokyo/](https://2024.igem.wiki/waseda-tokyo/)
+- 分散ファイルシステム: [https://drive.google.com/file/d/1_jYtEm63lqtM9TRM5EtCb4Egt2stWgMK/view?usp=sharing](https://drive.google.com/file/d/1_jYtEm63lqtM9TRM5EtCb4Egt2stWgMK/view?usp=sharing)
+- DNAパズルゲーム: [https://bishopfunc.github.io/BiosensorPuzzle](https://bishopfunc.github.io/BiosensorPuzzle)
+- ブックマーク共有・検索サービス: [https://ochiba.onrender.com/](https://ochiba.onrender.com/)
+- オンライン勉強ルームアプリ: [https://github.com/manasan-iTL/Syncation-backend](https://github.com/manasan-iTL/Syncation-backend)
 
 
 
 ## 自己PR
-早稲田大学の情報系の修士1年です。機械学習の研究開発からフロントエンド、バックエンド、インフラまで幅広い経験があります。私の強みは、技術力を活かした課題解決力です。実務インターンや研究、ハッカソンなどを通じて、ソフトウェア開発や機械学習を用いた課題解決に取り組んできました。また、合成生物学の世界大会iGEMでは、バイオものづくりによる社会課題解決に挑戦しました。常に「世の中に役立つものをつくる」ことを意識し、真の課題を見極め、技術を駆使して実現可能かつインパクトある解決策を追求してきました。こうした経験を将来の仕事でも活かしていきたいと考えています。
+早稲田大学の情報系の修士1年です。機械学習の研究開発からフロントエンド、バックエンド、インフラまで幅広い経験があります。私の強みは、技術力を活かした課題解決力です。実務インターンや研究、ハッカソンなどを通じて、ソフトウェア開発や機械学習を用いた課題解決に取り組んできました。私の強みは、強い好奇心とそれを行動に移す力です。分野にこだわらず、興味を持った領域にはゼロからでも飛び込む姿勢を大切にしています。例えば、iGEMという合成生物学の国際大会では、生物の知識がほぼゼロの状態からスタートし、独学で学びながら、チームのバイオインフォマティクスリーダーとしてプロジェクトを牽引し、世界TOP10入りを果たしました。また、産業技術総合研究所のインターンでは、ロボット工学の知識がない状態から、最大100台のロボットを制御するシステム開発に携わり、最終的にはその成果を国際論文誌で執筆しました。このように、未知の分野に対しても臆せず挑戦し、必要な知識を自ら習得して成果に結びつける力は、自分の大きな強みだと考えています。
 
 ## 理想のエンジニア像
 私は、機械学習の知見とフルスタック開発のスキルを活かし、ユーザーのニーズを技術で解決するためにリーダーシップを発揮できるエンジニアを目指しています。具体的には、以下の3つの観点から成長していきたいと考えています。

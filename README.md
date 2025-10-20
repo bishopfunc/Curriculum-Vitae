@@ -72,10 +72,10 @@
 - **2024/05**「100 台のRaspberry Pi Mouse を制御する ROS ベースの群ロボットシステムの開発」
    - [「ロボティクス・メカトロニクス 講演会 2024」](https://robomech.org/2024/) にてポスター発表。[ポスターはこちら](https://drive.google.com/file/d/1Pu4KfMKfuu7GrKscd3aBVf9qom2S4hYv/view?usp=sharing)
 - **2025/05**「機能性タンパク質の設計のためのPLMによるガイド付き強化学習手法の検討」
-   - 「人工知能学会全国大会2025」 にて口頭発表。[概要はこちら](https://confit.atlas.jp/guide/event/jsai2025/subject/2L1-OS-25-03/classlist)
+   - 「人工知能学会全国大会2025」 にて口頭発表。[概要はこちら](https://confit.atlas.jp/guide/event/jsai2025/subject/2L1-OS-25-03/classlist), [発表資料はこちら](https://drive.google.com/file/d/1ML65-2jLrkYTESRRbLAQRWH-7BRBO4F9/view?usp=sharing)
 - **2025/02**
 「The 100 Mouse System: A Scalable Multi-Robot Testbed with State Management User Interface」
-   - 「Journal of Robotics and Mechatronics」 にて査読中。
+   - 「Journal of Robotics and Mechatronics」 にて投稿中。(Acepted)
 
 ## 執筆歴: 記事
 - [人工的に生物を作る学問「合成生物学」とは？｜早稲田大の学生団体がクラウドファンディングで挑戦する、世界大会「iGEM」への道](https://lab-brains.as-1.co.jp/for-biz/2024/06/65064/)
@@ -111,8 +111,8 @@
 
 ## 業務経験
 ### 株式会社リクルート 2025.10~11
-- **使用技術**: -
-- **業務内容**: -
+- **使用技術**: BigQuery, Python
+- **業務内容**: レコメンドシステムの改善
 - **業務内容詳細**: -
 
 

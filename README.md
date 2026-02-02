@@ -65,7 +65,7 @@
 
 ## 執筆歴: 研究
 - **2021/02** [「粘菌を活用した新たな経路探索アルゴリズムに関する研究」〜ダイクストラ法・粘菌アルゴリズム・強化学習の比較検証〜](https://github.com/bishopfunc/highschool_paper)
-  - 「首都圏オープン 2021（TSEF2021) 」 優等賞
+  - 「首都圏オープン 2021(TSEF2021) 」 優等賞
   - [「ジュニア農芸化学会 2021」 P13-B 参加賞](https://www.jsbba.or.jp/2021/program_junior.html)
 - **2023/03**「人間的な処理に基づくウェブ操作モデルの検討」
   - 【世界モデルと知能】講座の最終課題として執筆。 [論文はこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/world_model_paper.pdf)
@@ -75,7 +75,7 @@
    - 「人工知能学会全国大会2025」 にて口頭発表。[概要はこちら](https://confit.atlas.jp/guide/event/jsai2025/subject/2L1-OS-25-03/classlist), [発表資料はこちら](https://drive.google.com/file/d/1ML65-2jLrkYTESRRbLAQRWH-7BRBO4F9/view?usp=sharing)
 - **2025/02**
 「The 100 Mouse System: A Scalable Multi-Robot Testbed with State Management User Interface」
-   - 「Journal of Robotics and Mechatronics」 にて投稿中。(Acepted)
+   - 「Journal of Robotics and Mechatronics」 にて採択。[論文はこちら](https://www.jstage.jst.go.jp/article/jrobomech/37/6/37_1545/_article/-char/en)
 
 ## 執筆歴: 記事
 - [人工的に生物を作る学問「合成生物学」とは？｜早稲田大の学生団体がクラウドファンディングで挑戦する、世界大会「iGEM」への道](https://lab-brains.as-1.co.jp/for-biz/2024/06/65064/)
@@ -113,8 +113,7 @@
 ### 株式会社リクルート 2025.10~11
 - **使用技術**: BigQuery, Python
 - **業務内容**: レコメンドシステムの改善
-- **業務内容詳細**: -
-
+- **業務内容詳細**: BigQueryおよびPythonを用いて大規模データの前処理・特徴量エンジニアリング・モデル学習・評価を担当しました。レコメンドシステムのパイプラインの一部に着目し改善手法を提案しました。オフライン評価においてベースライン手法との比較を行い、提案手法によるCVRの改善を達成しました。
 
 ### 株式会社Preferred Networks 2025.8~9
 - **使用技術**: Python, Pytorch
@@ -131,7 +130,7 @@
 ### 産業技術総合研究所 人工知能研究センター 2023.9~現在
 - **使用技術**: Python, C++, ROS 2
 - **業務内容**: ロボットシステムの開発, 論文執筆
-- **業務内容詳細**: 最大100台のロボットを同時に制御するマルチエージェントロボットの実験基盤の構築が求められる中、私はロボット制御システムの設計・開発をゼロから担当しました。Python/C++とROS 2を用いて、ロボット群の位置制御、姿勢制御、経路計画などの機能をROS 2のノードとして実装しました。この成果は[ロボティクス・メカトロニクス 講演会 2024](https://robomech.org/2024/)にて発表され([ポスターはこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/100mouse_poster_ver_final.pdf))、英文論文誌である[JRM(Journal of Robotics and Mechatronics)](https://www.fujipress.jp/jrm/rb-about_ja/)に投稿しました(現在査読中)。この実験基盤は、今後のMAPF（Multi-Agent Path Finding）やSwarm Roboticsなど研究の評価に活用され、組織内で**1~2研究プロジェクト/年の利用**が見込まれています。さらに、最近はVLA(Vision-Language-Action)モデルを用いた4足ロボットの歩容生成の研究に取り組んでいます。
+- **業務内容詳細**: 最大100台のロボットを同時に制御するマルチエージェントロボットの実験基盤の構築が求められる中、私はロボット制御システムの設計・開発をゼロから担当しました。Python/C++とROS 2を用いて、ロボット群の位置制御、姿勢制御、経路計画などの機能をROS 2のノードとして実装しました。この成果は[ロボティクス・メカトロニクス 講演会 2024](https://robomech.org/2024/)にて発表され([ポスターはこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/100mouse_poster_ver_final.pdf))、英文論文誌である[JRM(Journal of Robotics and Mechatronics)](https://www.jstage.jst.go.jp/article/jrobomech/37/6/37_1545/_article/-char/ja)に投稿しました。この実験基盤は、今後のMAPF（Multi-Agent Path Finding）やSwarm Roboticsなど研究の評価に活用され、組織内で**1~2研究プロジェクト/年の利用**が見込まれています。さらに、最近はVLA(Vision-Language-Action)モデルを用いた4足ロボットの歩容生成の研究に取り組んでいます。
 
 ### 合同会社EXNOA(DMM Games) 2023.8
 - **使用技術**: AWS, Terraform

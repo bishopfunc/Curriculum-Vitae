@@ -72,7 +72,7 @@
 - **2024/05**「100 台のRaspberry Pi Mouse を制御する ROS ベースの群ロボットシステムの開発」
    - [「ロボティクス・メカトロニクス 講演会 2024」](https://robomech.org/2024/) にてポスター発表。[ポスターはこちら](https://drive.google.com/file/d/1Pu4KfMKfuu7GrKscd3aBVf9qom2S4hYv/view?usp=sharing)
 - **2025/05**「機能性タンパク質の設計のためのPLMによるガイド付き強化学習手法の検討」
-   - 「人工知能学会全国大会2025」 にて口頭発表。[概要はこちら](https://confit.atlas.jp/guide/event/jsai2025/subject/2L1-OS-25-03/classlist), [発表資料はこちら](https://drive.google.com/file/d/1ML65-2jLrkYTESRRbLAQRWH-7BRBO4F9/view?usp=sharing)
+   - 「人工知能学会全国大会2025」 にて口頭発表。[論文はこちら][https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_2L1OS2503/_article/-char/ja/](https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_2L1OS2503/_article/-char/ja/), [発表資料はこちら](https://drive.google.com/file/d/1ML65-2jLrkYTESRRbLAQRWH-7BRBO4F9/view?usp=sharing)
 - **2025/02**
 「The 100 Mouse System: A Scalable Multi-Robot Testbed with State Management User Interface」
    - 「Journal of Robotics and Mechatronics」 にて採択。[論文はこちら](https://www.jstage.jst.go.jp/article/jrobomech/37/6/37_1545/_article/-char/en)
